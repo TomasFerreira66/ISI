@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+    <item>
+        <MdiaHP ns:originalKey="Média HP">68.66977363515306</MdiaHP>
+        <MdiaAtaque ns:originalKey="Média Ataque">75.97869507323566</MdiaAtaque>
+        <MdiaDefesa ns:originalKey="Média Defesa">71.74434087882818</MdiaDefesa>
+        <MdiaSp.Ataque ns:originalKey="Média Sp. Ataque">70.21304926764327</MdiaSp.Ataque>
+        <MdiaSp.Defesa ns:originalKey="Média Sp. Defesa">70.10918774966709</MdiaSp.Defesa>
+        <MdiaVelocidade ns:originalKey="Média Velocidade">66.60719041278287</MdiaVelocidade>
+    </item>
+</root>

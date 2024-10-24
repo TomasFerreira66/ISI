@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+    <item>
+        <Type1 ns:originalKey="Type 1">Bug</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">65</Type1Count>
+        <Type2 ns:originalKey="Type 2">Bug</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">3</Type2Count>
+        <TotalTipos>68</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Dark</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">28</Type1Count>
+        <Type2 ns:originalKey="Type 2">Dark</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">17</Type2Count>
+        <TotalTipos>45</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Dragon</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">26</Type1Count>
+        <Type2 ns:originalKey="Type 2">Dragon</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">15</Type2Count>
+        <TotalTipos>41</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Electric</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">42</Type1Count>
+        <Type2 ns:originalKey="Type 2">Electric</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">6</Type2Count>
+        <TotalTipos>48</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Fairy</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">17</Type1Count>
+        <Type2 ns:originalKey="Type 2">Fairy</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">18</Type2Count>
+        <TotalTipos>35</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Fighting</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">25</Type1Count>
+        <Type2 ns:originalKey="Type 2">Fighting</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">21</Type2Count>
+        <TotalTipos>46</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Fire</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">48</Type1Count>
+        <Type2 ns:originalKey="Type 2">Fire</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">11</Type2Count>
+        <TotalTipos>59</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Flying</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">4</Type1Count>
+        <Type2 ns:originalKey="Type 2">Flying</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">91</Type2Count>
+        <TotalTipos>95</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Ghost</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">30</Type1Count>
+        <Type2 ns:originalKey="Type 2">Ghost</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">13</Type2Count>
+        <TotalTipos>43</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Grass</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">66</Type1Count>
+        <Type2 ns:originalKey="Type 2">Grass</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">25</Type2Count>
+        <TotalTipos>91</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Ground</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">32</Type1Count>
+        <Type2 ns:originalKey="Type 2">Ground</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">31</Type2Count>
+        <TotalTipos>63</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Ice</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">23</Type1Count>
+        <Type2 ns:originalKey="Type 2">Ice</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">13</Type2Count>
+        <TotalTipos>36</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Normal</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">94</Type1Count>
+        <Type2 ns:originalKey="Type 2">Normal</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">4</Type2Count>
+        <TotalTipos>98</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Poison</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">28</Type1Count>
+        <Type2 ns:originalKey="Type 2">Poison</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">31</Type2Count>
+        <TotalTipos>59</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Psychic</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">52</Type1Count>
+        <Type2 ns:originalKey="Type 2">Psychic</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">28</Type2Count>
+        <TotalTipos>8E+1</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Rock</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">41</Type1Count>
+        <Type2 ns:originalKey="Type 2">Rock</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">14</Type2Count>
+        <TotalTipos>55</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Steel</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">23</Type1Count>
+        <Type2 ns:originalKey="Type 2">Steel</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">20</Type2Count>
+        <TotalTipos>43</TotalTipos>
+    </item>
+    <item>
+        <Type1 ns:originalKey="Type 1">Water</Type1>
+        <Type1Count ns:originalKey="Type 1 Count">107</Type1Count>
+        <Type2 ns:originalKey="Type 2">Water</Type2>
+        <Type2Count ns:originalKey="Type 2 Count">14</Type2Count>
+        <TotalTipos>121</TotalTipos>
+    </item>
+</root>
