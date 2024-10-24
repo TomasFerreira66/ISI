@@ -8,3 +8,5 @@ Pasta "Knime" - Pasta do projeto KNIME
 Ficheiro "pokemon.csv" - ficheiro de origem dos dados
 
 TP01_20457_DOC.pdf - relatório
+
+link repositorio: https://github.com/TomasFerreira66/ISI
